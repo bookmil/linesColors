@@ -7,6 +7,92 @@ div {
     display:inline-block;
 }
 
+.current-med-blue {
+    width: 5.64px;
+    height: 18.28px;
+    background-color: #0e76bd;
+}
+
+.current-salmon {
+    width: 5.64px;
+    height: 18.28px;
+    background-color: #e45735;
+}
+
+.current-plum {
+    width: 5.64px;
+    height: 18.28px;
+    background-color: #92278f;
+}
+
+.current-lime {
+    width: 5.64px;
+    height: 18.28px;
+    background-color: #9eb83b;
+}
+
+.current-orange {
+    width: 5.64px;
+    height: 18.28px;
+    background-color: #F1592A;
+}
+
+.current-dark-teal {
+    width: 5.64px;
+    height: 18.28px;
+    background-color: #12A89D;
+}
+
+.current-green {
+    width: 5.64px;
+    height: 18.28px;
+    background-color: #3ab54a;
+}
+
+.current-light-orange {
+    width: 5.64px;
+    height: 18.28px;
+    background-color: #F7941D;
+}
+
+.current-light-blue {
+    width: 5.64px;
+    height: 18.28px;
+    background-color: #25aae2;
+}
+
+.current-indigo {
+    width: 5.64px;
+    height: 18.28px;
+    background-color: #283890;
+}
+
+.current-gray {
+    width: 5.64px;
+    height: 18.28px;
+    background-color: #808281;
+}
+
+.current-light-gray {
+    width: 5.64px;
+    height: 18.28px;
+    background-color: #b3b5b4;
+}
+
+.current-dark-purple {
+    width: 5.64px;
+    height: 18.28px;
+    background-color: #652d90;
+}
+
+.current-red {
+    width: 5.64px;
+    height: 18.28px;
+    background-color: #bf1e2e;
+}
+
+
+
 .indigo-block {
     width: 5.64px;
     height: 18.28px;
